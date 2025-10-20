@@ -43,7 +43,7 @@ This project demonstrates how dynamic data and interactivity can be achieved **w
 ---
 
 ## 👩🏽‍💻 Author
-Built by **[Your Sister’s Name]**, inspired by the community and tourism of **Bela-Bela, Limpopo**.  
+Built by **Salome**, inspired by the community and tourism of **Bela-Bela, Limpopo**.  
 Mentored and supported by **Dakalo Sadiki**
 **Asakundwi Mulaudzi**
 
