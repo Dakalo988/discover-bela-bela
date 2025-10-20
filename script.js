@@ -181,7 +181,7 @@ function initContact() {
   };
 
   const updateHref = () => {
-    const base = 'https://wa.me/27601234567?text=';
+    const base = 'https://wa.me/27761363153?text=';
     link.href = base + buildText();
   };
 
