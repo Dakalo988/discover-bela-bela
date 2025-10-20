@@ -1,6 +1,40 @@
 [
-  { "date": "2025-11-10", "title": "Community Clean-Up", "description": "Join locals to clean and green the area." },
-  { "date": "2025-12-05", "title": "Holiday Festival", "description": "Enjoy local crafts, food, and music." }
+  {
+    "date": "2025-10-11",
+    "title": "Car Boot Sale & Farmers Market",
+    "description": "Across from SA Print & Sign, Potgieter St, Bela-Bela — local crafts & fresh produce." 
+  },
+  {
+    "date": "2025-10-18",
+    "title": "Jesus Fest – Hoërskool Warmbad",
+    "description": "Youth event at Hoërskool Warmbad in Bela-Bela — music, fellowship & community." 
+  },
+  {
+    "date": "2025-10-29",
+    "title": "AGS Woord en Lewe Golf Day – Zebula Golf Estate",
+    "description": "Fundraising golf day at Zebula Golf Estate & Spa, Bela-Bela." 
+  },
+  {
+    "date": "2025-11-08",
+    "title": "Leeupoort Market Day – Rooiberg/Bela-Bela",
+    "description": "Market event at Leeupoort Vakansiedorp, near Bela-Bela — food, crafts & family outing." 
+  },
+  {
+    "date": "2025-12-13",
+    "title": "Leeupoort Market Day (Summer Edition)",
+    "description": "Summer market event at Leeupoort Vakansiedorp, near Bela-Bela — outdoor fun, market stalls." 
+  },
+
+    {
+    "date": "2025-10-10",
+    "title": "Belabela Quarry Litter Pick-Up Initiative",
+    "description": "Belabela Quarries team gave back to the community with a litter pick-up around Bela Bela." 
+  },
+  {
+    "date": "2025-11-15",
+    "title": "Bela Bela Local Municipality ‘Not In My Presence’ Clean-Up Walk",
+    "description": "Community clean-up walk organised by Bela Bela Local Municipality around the Old Community Hall and surrounding areas." 
+  }
 ]
 
 
